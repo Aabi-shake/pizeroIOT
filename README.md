@@ -1,6 +1,6 @@
 # ⚡ Smart Device Controller
 
-A modern, minimal GUI application for controlling TP-Link Kasa smart home devices built with Python and Tkinter.
+A modern, minimal GUI application for controlling TP-Link Kasa smart home devices built with Python and Tkinter, to run smoothly on pi zero
 
 ![Smart Device Controller](image.png)
 
@@ -180,5 +180,6 @@ This project is open source. Feel free to use, modify, and distribute.
 - Inspired by modern home automation interfaces
 
 ---
+
 
 **Made for smart home enthusiasts who want simple, reliable device control.** 🏠✨
